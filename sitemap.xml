@@ -81,6 +81,41 @@
   </url>
   
   <url>
+    <loc>https://ryanovoovo.github.io/tags/%E6%95%B8%E8%AB%96/</loc>
+    <lastmod>2020-12-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanovoovo.github.io/tags/prime-number/</loc>
+    <lastmod>2020-12-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanovoovo.github.io/tags/%E6%9C%80%E5%A4%A7%E5%85%AC%E5%9B%A0%E6%95%B8-gcd/</loc>
+    <lastmod>2020-12-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanovoovo.github.io/tags/%E6%A8%A1%E5%8F%8D%E5%85%83%E7%B4%A0/</loc>
+    <lastmod>2020-12-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanovoovo.github.io/tags/%E4%B8%AD%E5%9C%8B%E5%89%A9%E9%A4%98%E5%AE%9A%E7%90%86-CRT/</loc>
+    <lastmod>2020-12-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ryanovoovo.github.io/tags/%E5%9C%96%E8%AB%96/</loc>
     <lastmod>2020-12-24</lastmod>
     <changefreq>daily</changefreq>
@@ -131,41 +166,6 @@
   
   <url>
     <loc>https://ryanovoovo.github.io/tags/scc/</loc>
-    <lastmod>2020-12-24</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryanovoovo.github.io/tags/%E6%95%B8%E8%AB%96/</loc>
-    <lastmod>2020-12-24</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryanovoovo.github.io/tags/prime-number/</loc>
-    <lastmod>2020-12-24</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryanovoovo.github.io/tags/%E6%9C%80%E5%A4%A7%E5%85%AC%E5%9B%A0%E6%95%B8-gcd/</loc>
-    <lastmod>2020-12-24</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryanovoovo.github.io/tags/%E6%A8%A1%E5%8F%8D%E5%85%83%E7%B4%A0/</loc>
-    <lastmod>2020-12-24</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryanovoovo.github.io/tags/%E4%B8%AD%E5%9C%8B%E5%89%A9%E9%A4%98%E5%AE%9A%E7%90%86-CRT/</loc>
     <lastmod>2020-12-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
